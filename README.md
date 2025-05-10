@@ -52,11 +52,6 @@
 - torchvision
 - PIL (Pillow)
 
-## 项目截图
-
-![主界面](screenshots/main.png)
-![练习界面](screenshots/quiz.png)
-![结果界面](screenshots/result.png)
 
 ## 安装依赖
 
